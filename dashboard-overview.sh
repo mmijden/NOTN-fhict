@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NTOPNG_HOST="192.168.2.113"
+NTOPNG_HOST="192.168.1.148"
 NTOPNG_PORT="3000"
 USERNAME="admin"
 PASSWORD="<placeholder>"
